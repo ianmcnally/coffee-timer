@@ -1,0 +1,3 @@
+rootProject.name = 'coffeeTimer'
+
+include ':app'
